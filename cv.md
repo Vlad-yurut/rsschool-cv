@@ -1,6 +1,6 @@
 #  **Vladislav Yгruts**
 
-![Photo] (rs-skool/.img/my photo.jpg)
+![Photo] (rs-skool/img/my photo.jpg)
 
 ## *Contacts*
 * [Location:] Brest,belarus
@@ -9,7 +9,7 @@
 * [Discord] кирпич#2883
 * [GitHub:] <https://github.com/Vlad-yurut>
 
-### * About me*
+### *About me*
 I want to fly into IT at 26 and I start with the Preparatory course “JavaScript/Front-end. Stage 0". Further more further better.
 
 A little about myself: communication skills, fast learner, active, quick and practical problem solving.
