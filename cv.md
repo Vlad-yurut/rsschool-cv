@@ -1,6 +1,6 @@
 #  **Vladislav Yuruts**
 
-! [Photo] (/rs-skool/img/photo.jpg)
+! [Photo] (/img/photo.jpg)
 
 ## *Contacts*
 * [Location:] Brest,Belarus
