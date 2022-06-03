@@ -14,15 +14,15 @@ I want to fly into IT at 26 and I start with the Preparatory course “JavaScrip
 
 A little about myself: communication skills, fast learner, active, quick and practical problem solving.
 
-### *Skills*
+## *Skills*
 
-### *Codes*
+## *Codes*
 
-### *Work experience*
+## *Work experience*
 
-### *Education*
+## *Education*
  * [University:] Brest State Technical University.mechanical engineering faculty
 
-### *language*
+## *language*
 * [Russian] - Native
 * [English] - Basic
