@@ -1,6 +1,6 @@
 #  **Vladislav Yuruts**
 
-! [Photo] (/img/photo.jpg)
+<image src="/img/photo.jpg" alt="Photo">
 
 ## *Contacts*
 * [Location:] Brest,Belarus
