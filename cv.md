@@ -1,7 +1,5 @@
 #  **Vladislav Yuruts**
 
-<image src="/img/photo.jpg" alt="Photo">
-
 ## *Contacts*
 * [Location:] Brest,Belarus
 * [Phone:] +375 29 206-48-59
