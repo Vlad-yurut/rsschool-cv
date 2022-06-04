@@ -4,7 +4,7 @@
 * [Location:] Brest,Belarus
 * [Phone:] +375 29 206-48-59
 * [Email:] manowar130@gmail.com
-* [Discord] кирпич#2883
+* [Discord] vlad(@Vlad-yurut)
 * [GitHub:] <https://github.com/Vlad-yurut>
 
 ## *About me*
