@@ -6,16 +6,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CV</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap" rel="stylesheet">
   </head>
   <body>
+    <nav class="nav">
+      <ul class="nav-list">
+        <li class="nav-item"><a href="#Contacts" >Contacts</a></li>
+        <li class="nav-item"><a href="#About-me">About me</a></li>
+        <li class="nav-item"><a href="#Skills">Skills</a></li>
+        <li class="nav-item"><a href="#Code">Code</a></li>
+        <li class="nav-item"><a href="#Work-experience">Work experience</a></li>
+        <li class="nav-item"><a href="#Education">Education</a></li>
+        <li class="nav-item"><a href="#Languages">languages</a></li>
+      </ul>
+    </nav>
       <div class="main-container">
         <div class="left">
-          <h1><a class="link" href="https://vlad-yurut.github.io/rsschool-cv/">rsschool-cv</a></h1>
+          <p class="link" > <a href="https://vlad-yurut.github.io/rsschool-cv/">rsschool-cv</a></p>
           <section class="intr">
             <h1 class="name">Vladislav Yuruts</h1>
           </section>
-          <img src="photo.jpg" alt="my photo">
-        <section class="contacts">
+          <div>
+          <img src="assets/img/photo.jpg" alt="my photo">
+         </div>
+        <section id="Contacts" class="contacts">
             <h2><i>Contacts:</i></h2>
             <ul class="contacts-list">
               <li>[Location:] Belarus,Brest</li>
@@ -35,29 +51,62 @@
               A little about myself: communication skills, fast learner, active, quick and practical problem solving.
             </p>
           </section>
-          <section class="skills">
+          <section id="Skills" class="skills">
             <h2>Skills:</h2>
           </section>
           <section class="Code">
-            <h2 id="code" class="code-title">Code:</h2>
+            <h2 id="Code" class="code-title">Code:</h2>
+            <pre>
+              <code>
+              # return masked string
+              def maskify(cc):
+              return "#"*(len(cc)-4) + cc[-4:]
+              pass
+              </code>
+            </pre>
           </section>
           <section class="Work experience">
             <h2 id="Work-experience" class="Work experience-title">Work experience:</h2>
           </section>
-          <section class="education">
-            <h2 id="edu" class="education-title">Education:</h2>
-            <ul class="education-list">
+          <section class="Education">
+            <h2 id="Education" class="education-title">Education:</h2>
+            <ul class="Education-list">
               <li>Brest State Technical University.mechanical engineering faculty</li>
             </ul>
           </section>
-          <section class="languages">
-            <h2 id="lang" class="languages-title">Languages:</h2>
-            <ul class="languages-list">
+          <section class="Languages">
+            <h2 id="Languages" class="languages-title">Languages:</h2>
+            <ul class="Languages-list">
               <li>English level - Basic</li>
               <li>Russian - native</li>
             </ul>
           </section>
         </div>
       </div>
-  </body>
+      <footer class="page-footer">
+        <div class="col">
+          <p>© 2022 by Vladislav Yuruts</p>
+        </div>
+        <div class="col">
+          <a href="https://github.com/Vlad-yurut" target="_blank">
+            <img
+              src="assets/img/GitHub_Logo.png"
+              width="86"
+              height="32"
+              alt="Github"
+            />
+          </a>
+        </div>
+        <div class="col">
+          <a href="https://rs.school/js/" target="_blank">
+            <img
+              src="assets/svg/rs_school_js.svg"
+              width="86"
+              height="32"
+              alt="RS School"
+            />
+          </a>
+        </div>
+      </footer>
+   </body>
 </html>
